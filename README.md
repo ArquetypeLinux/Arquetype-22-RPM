@@ -2,7 +2,7 @@ Default Arquetype GNU/Linux sources (yum/dnf)
 ======================================================
  
  - Offical website [arquetype.org](http://arquetype.org)
- - Community site [arquetype.community](http://community.arquetype.org) 
+ - Join our forum at [arquetype.community](http://community.arquetype.org) 
  - Download and modify them as you like.
 
 Before to start
