@@ -1,0 +1,3 @@
+Para persinalizar el estilo de la pantalla de welcome es necesario cambiar un archivo CSS. Este archivo CSS se encuentra en el source del paquete "lens". Hay una copia de seguridad de esta archivo CSS dentro del source de "arquetype-welcome". La ruta es "arquetype-welcome-23/data/lens-data/css/lens-ui.css". No obstante, esta hoja de estilos esta en el souece  del paquete "lens".
+
+Para cargar el estilo se edita el source del lens orginal de korora, eliminados su archivo CSS y pegamos el nuestro. Compilamos el paquete "lens" y lo instalamos. Ahora ya tenemos el welcome-screen con nuestro estilo. 
