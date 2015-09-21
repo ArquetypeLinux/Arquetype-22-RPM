@@ -7,4 +7,5 @@ Default Arquetype GNU/Linux sources (dnf)
 
 Before to start
 ===============
+ - Select a branch "fc23" for access to sources.
  - We dont offer any support if you got any problem working with our sources.
